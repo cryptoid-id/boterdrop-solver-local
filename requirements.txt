@@ -1,0 +1,14 @@
+# Pinned to the versions this adaptation was tested with.
+# Playwright is pinned to 1.59.0 on purpose: newer Playwright (>= 1.61)
+# breaks against the Camoufox fork build below (viewport/"isMobile"
+# protocol errors and a driver crash on uncaught page errors).
+fastapi==0.95.2
+pydantic==1.10.27
+starlette==0.27.0
+uvicorn==0.54.0
+camoufox==0.5.9
+playwright==1.59.0
+loguru==0.8.0
+psutil==7.2.2
+anyio==4.16.0
+typing_extensions==4.16.0

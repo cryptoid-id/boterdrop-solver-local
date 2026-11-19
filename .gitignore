@@ -1,0 +1,10 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+debug_logs/
+*.log
+config.json
+proxies.txt
+egress-ca.pem
+tmp/

@@ -1,0 +1,1 @@
+{"cleanup_interval_minutes":10,"debug":false,"headless":true,"host":"127.0.0.1","page_count":1,"port":8000,"proxy_file":"proxies.txt","proxy_support":true,"thread":1}

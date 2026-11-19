@@ -1,0 +1,7 @@
+# Example proxy list. Copy this file to proxies.txt and add one proxy per line.
+# Supported formats (same as the upstream solver):
+#   http://host:port
+#   http://user:pass@host:port
+#   socks5://host:port
+# Leave proxies.txt empty (or set "proxy_support": false in config.json)
+# if you do not use proxies. Never commit a real proxies.txt.
